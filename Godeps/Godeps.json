@@ -1,0 +1,10 @@
+{
+	"ImportPath": "bitbucket.org/njern/licenser",
+	"GoVersion": "go1.6",
+	"Deps": [
+		{
+			"ImportPath": "github.com/ryanuber/go-license",
+			"Rev": "15e5a5ea39efceff3870dd96fe0f1769ac01f2f9"
+		}
+	]
+}
